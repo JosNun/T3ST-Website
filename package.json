@@ -1,0 +1,25 @@
+{
+  "name": "t3st-site",
+  "version": "1.0.0",
+  "description": "Henlo",
+  "main": "app.js",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosNun/T3ST-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosNun/T3ST-Website/issues"
+  },
+  "homepage": "https://github.com/JosNun/T3ST-Website#readme"
+}
