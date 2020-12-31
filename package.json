@@ -4,7 +4,10 @@
   "description": "Henlo",
   "main": "app.js",
   "dependencies": {
-    "parcel": "^2.0.0-beta.1"
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "autoprefixer": "^9.8.6",
+    "parcel": "^1.12.4",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   },
   "devDependencies": {},
   "scripts": {
